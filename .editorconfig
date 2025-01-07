@@ -1,0 +1,6 @@
+[*.lua]
+max_line_length = 120
+detect_end_of_line = false
+end_of_line = lf
+indent_style = space
+indent_size = 4
